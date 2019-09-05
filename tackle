@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>東京六大学野球連盟の取り組み</title>
+    <link rel="stylesheet" href="stylesheet-2.css">
+  </head>
+  <body>
+    <div class="header">
+      <h1>東京六大学野球連盟の取り組み</h1>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>少年少女野球教室</h1>
+        <img src="logo-4.jpg">
+      </div>
+      <div class="content">
+        <img src="baseballschool-big6.png">
+        <p>大学野球部委員と野球での交流から子供達にスポーツの楽しさを提供します。スポーツは学校生活に応用するためのスキルの基礎を築くことができると考えられています。</p>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>バットフォーエバー</h1>
+        <img src="logo-15.png">
+      </div>
+      <div class="content">
+        <img src="bat forever-big6.jpg">
+        <p>NPO法人「アオダモ資源育成の会」による木のバットに必要なアオダモの保護活動に賛同し、消費と生産の持続可能なパターンによって良質なバットを使用し続けられるよう貢献していきます。</p>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>フレッシュリーグ</h1>
+        <img src="logo-7.png">
+      </div>
+      <div class="content">
+        <img src="fresh league match-big6.png">
+        <p>より多くの選手が活躍できる場を作るためリーグ戦方式で新人戦を行っています。球場の照明を使用しなくても済む、早朝に行っています。</p>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>ゴミの分別</h1>
+        <img src="logo-12.png">
+      </div>
+      <div class="content">
+        <img src="garbage can-big6.jpg">
+        <p>神宮球場では、ゴミの分別を行っています。できるだけゴミの少ない、さらに綺麗な球場作りにご協力お願いいたします。</p>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>オールスターゲーム</h1>
+        <img src="logo-11.png">
+      </div>
+      <div class="content">
+        <img src="allstargame-big6.png">
+        <p>全国各地へ神宮の熱気を届けるとともに、少年少女野球教室などを通して、子供達に野球の楽しさをお届けし、地域の活性化に貢献していきます。</p>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        <h1>海外遠征</h1>
+        <img src="logo 17.png">
+      </div>
+      <div class="content">
+        <img src="">
+        <p>野球後進国への野球普及や国際交流を行う海外派遣事業を検討しています。野球などのスポーツは平和の手助けをするものの一つとして期待されています。</p>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="footer-right">
+        <p>アンケートへのご協力お願い致します！</p>
+      </div>
+      <div class="footer-left">
+        <a href="https://forms.gle/Hc8jEKFm5m4w5MPT8" target="_blank">＞アンケート</a>
+      </div>
+    </div>
+  </body>
